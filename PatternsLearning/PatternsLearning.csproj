@@ -50,6 +50,7 @@
     </Otherwise>
   </Choose>
   <ItemGroup>
+    <Compile Include="Observer\ObserverUnitTest.cs" />
     <Compile Include="Strategy\CanFlyBehaviour.cs" />
     <Compile Include="Strategy\Duck.cs" />
     <Compile Include="Strategy\IFlyBehaviour.cs" />
