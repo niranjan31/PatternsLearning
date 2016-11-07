@@ -1,0 +1,7 @@
+D:\VisualStudio\Patterns\PatternsLearning\PatternsLearning\bin\Debug\PatternsLearning.dll
+D:\VisualStudio\Patterns\PatternsLearning\PatternsLearning\bin\Debug\PatternsLearning.pdb
+D:\VisualStudio\Patterns\PatternsLearning\PatternsLearning\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\VisualStudio\Patterns\PatternsLearning\PatternsLearning\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+D:\VisualStudio\Patterns\PatternsLearning\PatternsLearning\obj\Debug\PatternsLearning.csprojResolveAssemblyReference.cache
+D:\VisualStudio\Patterns\PatternsLearning\PatternsLearning\obj\Debug\PatternsLearning.dll
+D:\VisualStudio\Patterns\PatternsLearning\PatternsLearning\obj\Debug\PatternsLearning.pdb
