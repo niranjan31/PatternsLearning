@@ -50,7 +50,12 @@
     </Otherwise>
   </Choose>
   <ItemGroup>
+    <Compile Include="Observer\CurrentConditionDisplay.cs" />
+    <Compile Include="Observer\IPublisher.cs" />
+    <Compile Include="Observer\ISubscriber.cs" />
     <Compile Include="Observer\ObserverUnitTest.cs" />
+    <Compile Include="Observer\Publisher.cs" />
+    <Compile Include="Observer\WeatherData.cs" />
     <Compile Include="Strategy\CanFlyBehaviour.cs" />
     <Compile Include="Strategy\Duck.cs" />
     <Compile Include="Strategy\IFlyBehaviour.cs" />
